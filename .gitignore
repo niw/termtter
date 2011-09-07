@@ -6,3 +6,4 @@ bin/termtter.bat
 /.bundle
 /vendor/bundle
 /termtter.gemspec
+/rdoc
